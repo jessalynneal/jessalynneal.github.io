@@ -1,0 +1,59 @@
+*{
+  font-family: "Arial", sans-serif;
+}
+
+body {
+color: white;
+background-color: black;
+}
+
+a {
+
+}
+
+div {
+
+}
+
+.boxModel {
+  max-width: 300px;
+  padding: 20px 10px;
+  text-align: left;
+  margin: 50px
+  border: solid 5px orange;
+  background-color: white;
+
+}
+
+.container img {
+  max-width: 250px;
+  float: left;
+}
+
+.container {
+  float: right;
+  width: 69%;
+}
+
+aside {
+  float: left;
+  background-color: yellow;
+  width: 20%;
+  padding: 5%;
+  color: black;
+  border: 1%;
+  border-width: medium;
+  border-style: dotted;
+  border-color: white;
+}
+
+header {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.returnhome img {
+  max-width: 50px;
+  float: left;
+}

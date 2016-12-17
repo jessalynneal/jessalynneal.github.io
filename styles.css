@@ -1,0 +1,104 @@
+* {
+font-family: "Arial", sans-serif;
+background-color: f7f7f7;
+align: center;
+
+}
+
+
+body {
+width: 90%;
+text-align: left;
+
+}
+
+a {
+
+
+}
+
+h1 {
+text-align: center;
+background-color: black;
+color: white;
+height: 10%;
+padding-top: 2%;
+
+
+
+
+}
+
+nav {
+max-width: none;
+background-color: white;
+color: red;
+text align: center;
+padding: 1%;
+
+
+}
+
+nav ul {
+list-style-type: none;
+background-color: white;
+}
+
+nav li {
+  background-color: white;
+display: inline-block;
+margin: 1%;
+padding: 1%;
+
+}
+
+nav li span {
+  background-color: white;
+display: block;
+
+
+}
+
+
+nav img {
+max-width: 80px;
+
+}
+
+aside {
+
+width: 19%;
+float: left;
+margin: 2%;
+padding: 1%;
+background-color: D1D1D1;
+
+
+
+
+}
+
+aside h2{
+background-color: D1D1D1;
+
+}
+
+.reviews {
+float: right;
+width: 75%;
+
+}
+
+
+.reviews img {
+max-width: 10%;
+float:left;
+padding-right: 3%;
+
+}
+
+.reviews p{
+padding-bottom: 4%;
+
+
+}
